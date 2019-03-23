@@ -1,2 +1,2 @@
-hello just do it edit by branch feature_x
+hello just do it edit by branch feature_x whith no push
 
