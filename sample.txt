@@ -1,3 +1,4 @@
+add 把目录添加到索引中
 猴子都懂的git我能看不懂吗？
 连猴子都懂的git命令
 commit recorad status
